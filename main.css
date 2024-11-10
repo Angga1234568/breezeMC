@@ -1,0 +1,426 @@
+body{
+    overflow-x: hidden;
+    background-image: linear-gradient(90deg,#0A0A0A, #070707);
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+h1{
+    font-weight: 700;
+}
+
+#header{
+    color: #eeeeee;
+    position: absolute;
+    font-size: 50px;
+    left: 125px;
+    top: 50px;
+}
+
+#title{
+    font-weight: 800;
+    font-size: 75px;
+    position: absolute;
+    left: 125px;
+    top: 80px;
+}
+
+pre{
+    font-family: "Poppins", sans-serif;
+    color: #B1B1B1;
+    font-weight: 500;
+    font-size: 13.5px;
+}
+
+.subscription{
+    border-style: solid;
+    border-width: 1.99px;
+    border-radius: 5px;
+    height: 44px;
+    width: 295px;
+}
+
+#b1{
+    position: absolute;
+    left: 125px;
+    top: 425px;
+    border-color: #FFFFFF;
+}
+
+#b2{
+    position: absolute;
+    left: 125px;
+    top: 485px;
+    border-color: #4DFFD9
+}
+
+h2{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+h3{
+    color: #B1B1B1;
+    font-weight: 500;
+    font-size: 10px;
+}
+
+#tier1{
+    position: absolute;
+    top: 419px;
+    left: 147px;
+}
+
+#d1{
+    position: absolute;
+    top: 440px;
+    left: 147px;
+}
+
+#price1{
+    font-size: 17.3px;
+    position: absolute;
+    top: 422.5px;
+    left: 320px;
+}
+
+#per1{
+    position: absolute;
+    top: 436px;
+    left: 375px;
+}
+
+#tier2{
+    position: absolute;
+    left: 147px;
+    top: 478.8px;
+}
+
+#d2{
+    position: absolute;
+    left: 147px;
+    top: 499px;
+}
+
+#price2{
+    font-size: 17.3px;
+    position: absolute;
+    top: 481.5px;
+    left: 320px;
+}
+
+#per2{
+    position: absolute;
+    top: 495px;
+    left: 375px;
+}
+
+#slogan{
+    font-size: 50px;
+    position: absolute;
+    top: 700px;
+    left: 300px;
+}
+
+#slogan2{
+    font-size: 50px;
+    position: absolute;
+    top: 700px;
+    left: 560px;
+    color: #eeeeee;
+}
+
+#sdesc{
+    position: absolute;
+    top: 810px;
+    left: 405px;
+    text-align: center;
+}
+
+#why{
+    color: #eeeeee;
+    font-size: 50px;
+    position: absolute;
+    top: 1200px;
+    left: 150px;
+}
+
+#us{
+    position: absolute;
+    font-size: 50px;
+    left: 280px;
+    top: 1200px;
+}
+
+.box{
+    height: 370px;
+    width: 550px;
+    background-image: linear-gradient(#232323,#141414);
+    filter: drop-shadow(9px 8px #ffffff04);
+    border-radius: 5px;
+}
+
+#box1{
+    position: absolute;
+    top: 1090px;
+    left: 550px;
+}
+
+#wevegot{
+    position: absolute;
+    color: #eeeeee;
+    font-size: 50px;
+    top: 1600px;
+    left: 250px;
+}
+
+#menu{
+    position: absolute;
+    font-size: 50px;
+    top: 1600px;
+    left: 810px;
+}
+
+.borderbox{
+    border: 1.999px solid;
+    border-radius: 10px;
+    height: 250px;
+    width: 280px;
+}
+
+#bb1{
+    border-color: #FFFFFF;
+    position: absolute;
+    top: 1870px;
+    left: 100px;
+}
+
+#bb2{
+    border-color: #FFC805;
+    position: absolute;
+    top: 1970px;
+    left: 450px;
+}
+
+#bb3{
+    border-color: #4DFFD9;
+    position: absolute;
+    top: 1800px;
+    left: 800px;
+}
+
+#yougot{
+    position: absolute;
+    color: #eeeeee;
+    font-size: 50px;
+    top: 2460px;
+    left: 150px;
+}
+
+#wegot{
+    color: #eeeeee;
+    font-size: 50px;
+    position: absolute;
+    top: 2530px;
+    left: 150px;
+}
+
+#answ{
+    font-size: 50px;  
+    position: absolute;
+    top: 2530px;
+    left: 350px;
+}
+
+#ddesc{
+    position: absolute;
+    top: 2645px;
+    left: 160px;
+}
+
+#dclink{
+    background-color: white;
+    border-radius: 2px;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    top: 2750px;
+    left: 160px;
+}
+
+.gbg{
+    background-image: linear-gradient(180deg,#070707, #050505);
+}
+
+#bg1{
+    width: 2000px;
+    height: 400px;
+    position: absolute;
+    top: 600px;
+    left: 0px;
+}
+
+#bg2{
+    width: 2000px;
+    height: 800px;
+    position: absolute;
+    top: 1570px;
+    left: 0px;
+}
+
+#bg3{
+    width: 2000px;
+    height: 225px;
+    position: absolute;
+    top: 2900px;
+    left: 0px;
+}
+
+.neon{
+    background: linear-gradient(7deg,#0099ff  20%, #00ffc8 80%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#headesc{
+    position: absolute;
+    top: 210px;
+    left: 130px;
+}
+
+#email{
+    position: absolute;
+    top: 2950px;
+    left: 125px;
+}
+
+#emaildesc{
+    position: absolute;
+    top: 2980px;
+    left: 125px;
+}
+
+#op{
+    position: absolute;
+    top: 2950px;
+    left: 545px;
+}
+
+#address{
+    position: absolute;
+    top: 2950px;
+    left: 900px;
+}
+
+#location{
+    position: absolute;
+    top: 2980px;
+    left: 900px;
+}
+
+#number{
+    position: absolute;
+    top: 3010px;
+    left: 900px;
+}
+
+#discordimg{
+    filter:grayscale(1);
+    filter: brightness(2.9);
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 2350px;
+    left: 600px;
+}
+
+#bdes1{
+    position: absolute;
+    top: 1890px;
+    left: 90px;
+}
+
+#bdes2{
+    position: absolute;
+    top: 1990px;
+    left: 450px;
+}
+
+#bdes3{
+    position: absolute;
+    top: 1820px;
+    left: 810px;
+}
+
+.pb{
+    height: 28px;
+    width: 200px;
+    border-radius: 15px;
+    font-weight: 600;
+    color: black;
+    font-size: 12.5px;
+    text-align: center;
+    line-height: 28px;
+}
+
+#pb1{
+    position: absolute;
+    top: 2075px;
+    left: 140px;
+    background-image: linear-gradient(42deg,#ffffff,#d1d1d1)
+}
+
+#pb2{
+    position: absolute;
+    top: 2175px;
+    left: 495px;
+    background-image: linear-gradient(42deg,#fcd855,#fcd031)
+}
+
+#pb3{
+    position: absolute;
+    top: 2000px;
+    left: 845px;
+    background-image: linear-gradient(42deg,#78c2b2,#55fdd9)
+}
+
+#creeper{
+    position: absolute;
+    top: -60px;
+    left: 500px;
+    width: 800px;
+    height: 800px;
+    filter: contrast(-4);
+    rotate: 2deg;
+}
+
+#stickymenu{
+    position: sticky;
+}
+
+#lb{
+    background-image: linear-gradient(#F5F5F5,#D9D9D9);
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+    line-height: 17px;
+}
+
+.b1{
+    float: right;
+    font-weight: 600;
+    font-size: 14px;
+    padding-left: 26px;
+    padding-right: 50px;
+    padding-top: 7px;
+    padding-bottom: 15px;
+}
+
+#stickymenu{
+    display: block;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
